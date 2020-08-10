@@ -26,3 +26,7 @@ This design is CC-BY-SA-4.0 - (C) Auke Kok <sofar@foo-projects.org>
 Share with attribution, share-alike licensed. If you distribute the
 design (modified or not), you have to maintain attribution. You must
 also share the work under the same license.
+
+## Preview
+
+![Design preview](screenshot.png)
