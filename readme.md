@@ -19,6 +19,21 @@ surface fasteners.
 I mill my own wood, so it's not rounded. If you want to avoid rounded
 edges, you will have to buy larger lumber and trim it down to size.
 
+## Construction
+
+After cutting all the pieces to size, I constructed the apron and the
+shelf boxes first. Then I set those aside and assembled the 4 legs
+by glueing the 3 pieces of the legs together. I used clamps to hold
+them side by side while glueing to make sure they were all exactly
+the same size and the "slot" at the same offset. I used 2 4x2 x 2'
+pieces as fitting to make sure everything was parallel and properly
+spaced for receiving the shelf and apron. After the legs were glued,
+I then lay flat 2 of the legs and glued+screwed the apron and shelf
+upright. Then I glued on the other 2 legs on top of the apron and
+shelf. This way I could make sure the shelf and apron and legs were
+all perpendicular, which should be easier than trying to fix all legs
+to the apron or shelf first.
+
 ## License
 
 This design is CC-BY-SA-4.0 - (C) Auke Kok <sofar@foo-projects.org>
